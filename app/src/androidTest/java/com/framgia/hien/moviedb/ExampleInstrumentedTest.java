@@ -1,4 +1,4 @@
-package com.example.dong.moviedb;
+package com.framgia.hien.moviedb;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
