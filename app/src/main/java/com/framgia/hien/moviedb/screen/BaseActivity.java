@@ -14,3 +14,7 @@ public abstract class BaseActivity extends AppCompatActivity {
         super.onStop();
     }
 }
+qeweqwe
+asdsa  onStartdsa
+  androidsa
+  das
